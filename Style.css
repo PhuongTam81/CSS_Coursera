@@ -1,0 +1,52 @@
+/* Style for the body tag */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Style for the header tag */
+header {
+    background-color: #333;  /* Modify this color as needed */
+    color: white;  /* Add this to change text color in the header */
+    padding: 20px;
+}
+
+/* Style for the nav tag */
+nav {
+    background-color: #444;  /* Modify this color as needed */
+    padding: 10px;
+}
+
+/* Style for the main tag */
+main {
+    background-color: #f4f4f4;  /* Modify this color as needed */
+    font-size: 18px;
+    padding: 20px;
+}
+
+/* Style for the footer tag */
+footer {
+    background-color: #222;  /* Modify this color as needed */
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Style for the li tag */
+li {
+    display: inline-block;  /* Makes the list items appear in a row */
+    width: 30%;  /* Modify width as needed */
+    margin: 10px;
+}
+
+/* Style for the h1 tag */
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #333;  /* Modify color as needed */
+}
+
+/* Style for the p tag */
+p {
+    line-height: 1.6;
+}
